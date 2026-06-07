@@ -1,0 +1,1 @@
+You should narrow considered outcomes to value/productivity of nearby land, air pollution, and antibiotic resistant diseases.

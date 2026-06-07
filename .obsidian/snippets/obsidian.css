@@ -1,0 +1,4 @@
+/* Make wide page rendering available via frontmatter property */
+.view-content .full-width {
+    --file-line-width: 100%;
+}

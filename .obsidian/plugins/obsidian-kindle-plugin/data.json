@@ -1,0 +1,12 @@
+{
+  "amazonRegion": "global",
+  "highlightsFolder": "Notes/Books/Kindle Highlights",
+  "lastSyncMode": "my-clippings",
+  "isLoggedIn": false,
+  "syncOnBoot": false,
+  "downloadBookMetadata": true,
+  "lastSyncDate": "2024-08-11T15:09:15.003Z",
+  "fileNameTemplate": "{{author}} ― {{title | replace(', ', ' ') | replace('—', '')}}",
+  "fileTemplate": "{% trim %}\n---\ntype: kindle-highlights\nauthor: {{author}}\ntitle: {{title | replace(\",\", \"\") | replace(\":\", \"-\")}}\nlongTitle: {{longTitle  | replace(\",\", \"\") | replace(\":\", \"-\")}}\npublisher: {{publisher}}\npublished: {{publishedDate}}\nASIN: {% if asin %}* {{asin}} {% endif %}\nISBN: {% if isbn %}* {{isbn}} {% endif %}\npages: {% if pages %}* {{pages}} {% endif %}\nurl: {% if Url %}* {{Url}} {% endif %}\nimage: {% if imageUrl %}* {{imageUrl}} {% endif %}\nlastAnnotated: {% if lastAnnotatedDate %}* {{lastAnnotatedDate}} {% endif %}\nhighlightsCount: {{highlightsCount}}\naliases:\n  -\ntags: kindle-highlights\n---\n{% if imageUrl %}* [[imageUrl|200]] {% endif %}\n# {{title}}\n#### {{author}}\n\n{% endtrim %}\n\n### Highlights\n---\n{{highlights}}\n",
+  "highlightTemplate": "> {{ text }} ― location: [{{ location }}]({{ appLink }})\n{% if note %}- {{note}}{% endif %}\n\n---\n"
+}

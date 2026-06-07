@@ -1,0 +1,14 @@
+{
+  "baseFontSize": 16,
+  "accentColor": "",
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "task-formatting",
+    "dataview-styling",
+    "obsidian",
+    "center-images",
+    "task-styling"
+  ],
+  "cssTheme": "Things",
+  "showViewHeader": true
+}

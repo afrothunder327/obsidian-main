@@ -1,0 +1,4 @@
+
+- Particulate matter releases from pig farms "can also threaten the environment (plants and other organisms) causing vegetation stress and ecosystem alteration (Grantz et al., 2003). High concentrations of environmental PM are, furthermore, relevant to climate change issues, such as cloud formation, radiative forcing, and contribute to atmospheric visibility impairment (IPCC, 2005)"
+- it has been observed that pig manure and farm wastewater can contain antibiotic residues, antibiotic resistance genes and antibiotic resistant bacteria [[72](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8532907/#B72-antibiotics-10-01209),[73](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8532907/#B73-antibiotics-10-01209),[74](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8532907/#B74-antibiotics-10-01209)]."
+- These elements enter into the food grown where this manure has been dumped.

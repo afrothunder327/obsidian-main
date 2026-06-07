@@ -1,0 +1,73 @@
+filters:
+  and:
+    - file.inFolder("projects/biosecurity-learning/sources")
+properties:
+  file.name:
+    displayName: Title
+  status:
+    displayName: Status
+  priority:
+    displayName: Priority
+  topic:
+    displayName: Topic
+  type:
+    displayName: Type
+  date_added:
+    displayName: Added
+  date_finished:
+    displayName: Finished
+  rating:
+    displayName: Rating
+views:
+  - type: table
+    name: Up next
+    filters:
+      and:
+        - status == "to-read"
+    order:
+      - file.name
+      - priority
+      - topic
+      - type
+      - date_added
+    sort:
+      - property: priority
+        direction: DESC
+      - property: date_added
+        direction: DESC
+  - type: table
+    name: Reading now
+    filters:
+      and:
+        - status == "reading"
+    order:
+      - file.name
+      - topic
+      - date_added
+  - type: table
+    name: By topic
+    filters:
+      and:
+        - status != "read"
+    order:
+      - file.name
+      - topic
+      - status
+      - priority
+    sort:
+      - property: topic
+        direction: ASC
+      - property: priority
+        direction: DESC
+  - type: table
+    name: Read
+    filters:
+      and:
+        - status == "read"
+    order:
+      - file.name
+      - rating
+      - date_finished
+    sort:
+      - property: date_finished
+        direction: DESC

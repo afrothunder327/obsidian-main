@@ -1,0 +1,2 @@
+As Farmed Animal Funders (FAF) aren't able to share country-level data with us, the two primary alternatives I see are:
+1. We revise the current dimension methodologies, and create a new methodology for constructing a neglectedness dimension using the FAF country-level data. We construct all of the other dimensions, and send along our results to FAF. FAF then construct the neglectedness score using . Nope this isn't going to work.

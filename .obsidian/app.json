@@ -1,0 +1,18 @@
+{
+  "legacyEditor": false,
+  "livePreview": true,
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "alwaysUpdateLinks": true,
+  "promptDelete": false,
+  "attachmentFolderPath": "Attachments",
+  "showUnsupportedFiles": true,
+  "showInlineTitle": true,
+  "propertiesInDocument": "source",
+  "readableLineLength": true,
+  "openBehavior": ""
+}

@@ -1,0 +1,1 @@
+Could the moral universalism dataset be useful to look at? Do any of the views there strongly correlate with pro animal welfare voting or views? Do they include questions along these lines?

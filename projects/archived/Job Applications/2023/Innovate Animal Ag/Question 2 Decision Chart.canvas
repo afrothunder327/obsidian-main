@@ -1,0 +1,33 @@
+{
+	"nodes":[
+		{"id":"85ba23f9b4cf0801","type":"text","text":"Do they prioritize animal welfare?","x":-300,"y":-120,"width":280,"height":80,"color":"3"},
+		{"id":"b420172147a2eb39","type":"text","text":"Are they committed to a commercialization strategy that will harm animals?","x":-560,"y":100,"width":300,"height":86,"color":"3"},
+		{"id":"781204e09dd4740c","type":"text","text":"Have they pursued intellectual property for their invention?","x":-60,"y":100,"width":280,"height":100,"color":"3"},
+		{"id":"3c037546cbe8f1c2","type":"text","text":"**QUESTION**","x":-919,"y":-110,"width":250,"height":60,"color":"3"},
+		{"id":"f044f2e9da146615","type":"text","text":"**ACTION**","x":-919,"y":-40,"width":250,"height":60,"color":"1"},
+		{"id":"430a7ae91f4ca983","type":"text","text":"Have they pursued an intellectual property claim?","x":-554,"y":396,"width":288,"height":82,"color":"3"},
+		{"id":"02a9075a161d51b0","type":"text","text":"Have they pursued intellectual property for their invention?","x":-1203,"y":398,"width":300,"height":80,"color":"3"},
+		{"id":"aa36e1c6b2001a96","type":"text","text":"IAA evaluates whether intended technology application is sufficiently high risk to justify sponsoring another researcher to make an incremental improvement that they can file a patent for.","x":-841,"y":678,"width":333,"height":182,"color":"1"},
+		{"id":"e7ca2918df3577fb","type":"text","text":"Assist the researcher with obtaining intellectual property protection for their invention.","x":-112,"y":398,"width":225,"height":166,"color":"1"},
+		{"id":"b2dd1308c320a323","type":"text","text":"Assist the researcher with obtaining intellectual property protection for their invention.","x":-1531,"y":654,"width":260,"height":140,"color":"1"},
+		{"id":"e8fdda8627fcad7c","type":"text","text":"Connect with animal conscious investors who have been prepped with commercialization ideas that improve animal welfare.","x":-1203,"y":936,"width":300,"height":164,"color":"1"},
+		{"id":"f507b976a34a505f","type":"text","text":"IAA introduces researcher to frameworks for thinking about commercialization strategies that can help animal welfare.\n","x":220,"y":568,"width":245,"height":180,"color":"1"},
+		{"id":"f41b184ddc3646ff","x":220,"y":877,"width":250,"height":118,"color":"1","type":"text","text":"IAA connects researcher with animal conscious investors."},
+		{"id":"a9f9de4365a791f2","x":-313,"y":676,"width":250,"height":60,"color":"1","type":"text","text":""}
+	],
+	"edges":[
+		{"id":"d7e52d7b56b8cd8f","fromNode":"85ba23f9b4cf0801","fromSide":"bottom","toNode":"b420172147a2eb39","toSide":"top","label":"No"},
+		{"id":"41768c20f4fb89ce","fromNode":"85ba23f9b4cf0801","fromSide":"bottom","toNode":"781204e09dd4740c","toSide":"top","label":"Yes"},
+		{"id":"153dd3443314a89f","fromNode":"02a9075a161d51b0","fromSide":"bottom","toNode":"b2dd1308c320a323","toSide":"top","label":"No"},
+		{"id":"ccf5313517557887","fromNode":"02a9075a161d51b0","fromSide":"bottom","toNode":"e8fdda8627fcad7c","toSide":"top","label":"Yes"},
+		{"id":"f7f7c9c15f4140d6","fromNode":"430a7ae91f4ca983","fromSide":"bottom","toNode":"aa36e1c6b2001a96","toSide":"top","label":"No"},
+		{"id":"1c8f0c74db4842bc","fromNode":"781204e09dd4740c","fromSide":"bottom","toNode":"f507b976a34a505f","toSide":"top","label":"Yes"},
+		{"id":"caaa941166e0f660","fromNode":"781204e09dd4740c","fromSide":"bottom","toNode":"e7ca2918df3577fb","toSide":"top","label":"No"},
+		{"id":"e3b0f37895197c4b","fromNode":"e7ca2918df3577fb","fromSide":"right","toNode":"f507b976a34a505f","toSide":"top"},
+		{"id":"e0c7179b45fa497a","fromNode":"b420172147a2eb39","fromSide":"bottom","toNode":"02a9075a161d51b0","toSide":"top","label":"No"},
+		{"id":"9172883c2083b1dd","fromNode":"b420172147a2eb39","fromSide":"bottom","toNode":"430a7ae91f4ca983","toSide":"top","label":"Yes"},
+		{"id":"b8ec1deea656971e","fromNode":"b2dd1308c320a323","fromSide":"bottom","toNode":"e8fdda8627fcad7c","toSide":"top"},
+		{"id":"37cb72314fd34006","fromNode":"f507b976a34a505f","fromSide":"bottom","toNode":"f41b184ddc3646ff","toSide":"top"},
+		{"id":"17c86fbc60ba23cf","fromNode":"430a7ae91f4ca983","fromSide":"bottom","toNode":"a9f9de4365a791f2","toSide":"top","label":"Yes"}
+	]
+}

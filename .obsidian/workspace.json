@@ -1,0 +1,390 @@
+{
+  "main": {
+    "id": "b7f5955bcf22eaa7",
+    "type": "split",
+    "children": [
+      {
+        "id": "32e2616c5d1f061d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "77b2aa1845cb854d",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "projects/biosecurity-learning/reading.base",
+                "viewName": "Up next"
+              },
+              "icon": "lucide-table",
+              "title": "reading"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d41533846d40cd63",
+    "type": "split",
+    "children": [
+      {
+        "id": "802f213332df8130",
+        "type": "tabs",
+        "dimension": 63.30027051397656,
+        "children": [
+          {
+            "id": "be5d3fbae10c4420",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTime",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5df02046d83e387f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e090df34341b21c1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "aca3074d63653b98",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent files"
+            }
+          }
+        ]
+      },
+      {
+        "id": "298061334e247f80",
+        "type": "tabs",
+        "dimension": 36.69972948602344,
+        "children": [
+          {
+            "id": "b2596f62e211aaee",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent files"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 420.5
+  },
+  "right": {
+    "id": "d2f350ecbe4cb73a",
+    "type": "split",
+    "children": [
+      {
+        "id": "ae198460f51134cf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "41bfe5f89fcebeb8",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "833148b2b20f68b1",
+            "type": "leaf",
+            "state": {
+              "type": "podcast_player_view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "podcast_player_view"
+            }
+          },
+          {
+            "id": "7439cafa95d503f8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Notes/Books/📚 Bookshelf.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 📚 Bookshelf"
+            }
+          },
+          {
+            "id": "6326535eb58d1925",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tasks/Task Tracker.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Task Tracker"
+            }
+          },
+          {
+            "id": "b68c6fd64f6abc70",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "timeline"
+            }
+          },
+          {
+            "id": "5b9bfd5d5c6dfa4f",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "timeline"
+            }
+          },
+          {
+            "id": "6b13740a42c1374a",
+            "type": "leaf",
+            "state": {
+              "type": "podcast_player_view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "podcast_player_view"
+            }
+          },
+          {
+            "id": "fc7af58521ee91f9",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "timeline"
+            }
+          },
+          {
+            "id": "852f23dbb790069a",
+            "type": "leaf",
+            "state": {
+              "type": "podcast_player_view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "podcast_player_view"
+            }
+          },
+          {
+            "id": "00c7441c837eb06e",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "timeline"
+            }
+          },
+          {
+            "id": "a8150a3fc742d38c",
+            "type": "leaf",
+            "state": {
+              "type": "podcast_player_view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "podcast_player_view"
+            }
+          },
+          {
+            "id": "f497ba3a2c7c94c3",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "timeline"
+            }
+          },
+          {
+            "id": "dfde0c2cbc405a2d",
+            "type": "leaf",
+            "state": {
+              "type": "podcast_player_view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "podcast_player_view"
+            }
+          },
+          {
+            "id": "35f1123c5ada0a52",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "timeline"
+            }
+          },
+          {
+            "id": "ca90047c6ea9392f",
+            "type": "leaf",
+            "state": {
+              "type": "podcast_player_view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "podcast_player_view"
+            }
+          },
+          {
+            "id": "372f3aa2ab29d4ec",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "timeline"
+            }
+          },
+          {
+            "id": "49cec82cebd4b048",
+            "type": "leaf",
+            "state": {
+              "type": "podcast_player_view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "podcast_player_view"
+            }
+          },
+          {
+            "id": "88d77275283bb443",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 17
+      }
+    ],
+    "direction": "horizontal",
+    "width": 467.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "markdown-importer:Open format converter": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": true,
+      "periodic-notes:Open today": false,
+      "obsidian-kindle-plugin:Sync your Kindle highlights": false,
+      "obsidian-projects:Open projects": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "77b2aa1845cb854d",
+  "lastOpenFiles": [
+    "projects/archived/Mercy for Animals/Killer Acquisitions/Should Meat Alternatives Beware Killer Acquisitions.md",
+    "projects/archived/Mercy for Animals/Ballot Measure Research/Data Sources.md",
+    "projects/archived/Mercy for Animals/Ballot Measure Research/States with citizenship initiative ballot measures.md",
+    "projects/biosecurity-learning/reading.base",
+    "projects/archived/msa/At-risk financing theory of change.canvas",
+    "projects/archived/msa",
+    "projects/archived/Career planning.md",
+    "projects/archived/Quotes.md",
+    "projects/archived/Useful Espanso Links.md",
+    "projects/archived/Reading list.md",
+    "Attachments/Pasted image 20240616111054.png",
+    "Attachments/Pasted image 20240616110342.png",
+    "Attachments/RMI Exponential Energy.png",
+    "Attachments/Pasted image 20240116125725.png",
+    "Attachments/Pasted image 20240116125637.png",
+    "Attachments/Pasted image 20240115204849.png",
+    "Attachments/Green steel emissions by country.png",
+    "projects/biosecurity-learning/README.md",
+    "projects/innovation-econ-learning",
+    "projects/ai",
+    "projects/animal-welfare",
+    "projects/ifp/cms",
+    "projects/ifp/clinical-trial-abundance",
+    "projects/ifp",
+    "projects/clinical-trial",
+    "projects/archived/Job Applications/Research interests.md",
+    "projects/biosecurity-learning/README.md.tmp.3872.13b1b5c6f91e",
+    "projects/archived/Podcasts/Volts - We are closing in on zero-carbon cement.md",
+    "projects/archived/Podcasts/80000 Hours Podcast - 179 – Randy Nesse on why evolution left us so vulnerable to depression and anxiety.md",
+    "projects/archived/Podcasts/Ones and Tooze - A Look Ahead at 2024.md",
+    "projects/archived/Podcasts/The HC Insider Podcast Conversations in Energy  Commodities - Trading Green Ammonia with Christophe Savi.md",
+    "projects/archived/Podcasts/Made You Think - 106 Building Blocks of Civilization How the World Really Works.md",
+    "projects/archived/Podcasts/The HC Insider Podcast Conversations in Energy  Commodities - The Future of Food  Ag with Robert Berendes.md",
+    "projects/archived/Podcasts/Made You Think - 103 Beyond the River of Doubt Into the Amazon.md",
+    "projects/archived/Podcasts/Ones and Tooze - Does Davos Have a Trust Problem.md",
+    "projects/archived/Podcasts/Catalyst with Shayle Kann - 2023 climate tech venture investment trends.md",
+    "projects/archived/Podcasts/103 Beyond the River of Doubt Into the Amazon.md",
+    "projects/archived/Projects/Water Quality Remote Sensing/Meeting with Teja ― FWI.md",
+    "projects/archived/Projects/Innovate Animal Ag/Article Planning.md",
+    "projects/archived/Projects/Innovate Animal Ag/On-farm hatching.md",
+    "projects/archived/Projects/AMC Work/Green steel ― design and cost analysis of hydrogen-based direct iron reduction.md",
+    "projects/archived/Projects/AMC Work/Advance Purchase Commitment for a New Malaria Vaccine.md",
+    "projects/archived/Projects/AMC Work/Expanded AMC Draft Outline.md",
+    "projects/archived/Projects/AMC Work/Green Ammonia.md",
+    "projects/archived/Job Applications/2023/Ambitious Impact/Work Test 2 Causal Diagram.canvas",
+    "projects/archived/Job Applications/2023/Ambitious Impact/Work Test 2 Causal Diagram.png",
+    "projects/archived/Job Applications/2023/Ambitious Impact/Work Test 1 Theory of Change.canvas",
+    "projects/archived/Job Applications/2023/Ambitious Impact/Work Test 2 Causal Diagram 2.png",
+    "Attachments/Pasted image 20240125122108.png",
+    "Work/MSA/Untitled.canvas",
+    "projects/archived/Job Applications/2023/Innovate Animal Ag/Question 2 Decision Chart.canvas"
+  ]
+}

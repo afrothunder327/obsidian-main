@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "702c362e054d35fe",
+    "type": "split",
+    "children": [
+      {
+        "id": "637fd0f5b5913144",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Mercy for Animals/FAOI/Collaboration Idea.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8b124db3935ac542",
+    "type": "split",
+    "children": [
+      {
+        "id": "8a78fef96e625ded",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9fc5be733b3e96ae",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "09dbc3a9793e25a4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 228
+  },
+  "right": {
+    "id": "845fa3c2feeea928",
+    "type": "split",
+    "children": [
+      {
+        "id": "ab6a5c61257f1ee4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "49c6b899cb522926",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Mercy for Animals/FAOI/Collaboration Idea.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "637fd0f5b5913144",
+  "lastOpenFiles": [
+    "Mercy for Animals/FAOI/Collaboration Idea.md",
+    "Planning/Getting Things Done.md",
+    "Mercy for Animals/Plant-Based Program Research/Literature Review.md",
+    "Mercy for Animals/Killer Acquisitions/Killer Acquisitions Final.md",
+    "Mercy for Animals/Killer Acquisitions/Should Meat Alternatives Beware Killer Acquisitions.md",
+    "Mercy for Animals/Killer Acquisitions/Pasted image 20220203164201.png",
+    "Mercy for Animals/Killer Acquisitions/Overview of Meat Alternative Acquisitions.md",
+    "Mercy for Animals/Killer Acquisitions/Literature Review.md",
+    "Mercy for Animals/Pig Project/Environment Draft.md",
+    "Mercy for Animals/Pig Project/Pig Project Public Health and Environment.md"
+  ]
+}
