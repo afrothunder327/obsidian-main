@@ -3,14 +3,14 @@
   "hasMigratedDailyNoteSettings": true,
   "hasMigratedWeeklyNoteSettings": false,
   "daily": {
-    "folder": "Journal/Daily",
+    "folder": "journal/daily",
     "template": "Templates/Daily Note",
     "enabled": true
   },
   "weekly": {
     "format": "YYYY, [Week] w",
     "template": "Templates/Weekly Note.md",
-    "folder": "Journal/Weekly",
+    "folder": "journal/weekly",
     "enabled": true
   },
   "monthly": {
@@ -21,8 +21,9 @@
   },
   "quarterly": {
     "format": "",
-    "template": "",
-    "folder": ""
+    "template": "templates/Quarterly Plan.md",
+    "folder": "journal/quarterly",
+    "enabled": true
   },
   "yearly": {
     "format": "",

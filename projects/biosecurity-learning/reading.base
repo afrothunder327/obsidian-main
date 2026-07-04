@@ -21,20 +21,16 @@ properties:
 views:
   - type: table
     name: Up next
-    filters:
-      and:
-        - status == "to-read"
     order:
       - file.name
       - priority
-      - topic
-      - type
       - date_added
+      - tags
     sort:
-      - property: priority
-        direction: DESC
       - property: date_added
         direction: DESC
+    columnSize:
+      file.name: 416
   - type: table
     name: Reading now
     filters:

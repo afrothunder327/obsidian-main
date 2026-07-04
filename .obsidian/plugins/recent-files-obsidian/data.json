@@ -1,8 +1,120 @@
 {
   "recentFiles": [
     {
+      "basename": "High-risk human-caused pathogen exposure events",
+      "path": "projects/biosecurity-learning/sources/High-risk human-caused pathogen exposure events.md"
+    },
+    {
+      "basename": "Germ Warfare - A Very Graphic History",
+      "path": "projects/biosecurity-learning/sources/Germ Warfare - A Very Graphic History.md"
+    },
+    {
+      "basename": "The makings of a good bioweapon",
+      "path": "projects/biosecurity-learning/sources/The makings of a good bioweapon.md"
+    },
+    {
+      "basename": "10 big projects for reducing bio x-risk",
+      "path": "projects/biosecurity-learning/sources/10 big projects for reducing bio x-risk.md"
+    },
+    {
+      "basename": "Coding Agents Are Changing the Biosecurity Risk Landscape",
+      "path": "projects/biosecurity-learning/sources/Coding Agents Are Changing the Biosecurity Risk Landscape.md"
+    },
+    {
+      "basename": "Treating pancreatic tumours may have revealed cancer’s master switch 1",
+      "path": "projects/ifp/clinical-trial-abundance/Treating pancreatic tumours may have revealed cancer’s master switch 1.md"
+    },
+    {
+      "basename": "Planning for Matt meeting",
+      "path": "projects/ifp/Planning for Matt meeting.md"
+    },
+    {
+      "basename": "The Market for Antibiotics - Anne Karing",
+      "path": "projects/random/The Market for Antibiotics - Anne Karing.md"
+    },
+    {
+      "basename": "Beyond sequence similarity toward function-based screening of nucleic acid synthesis",
+      "path": "projects/biosecurity-learning/sources/Beyond sequence similarity toward function-based screening of nucleic acid synthesis.md"
+    },
+    {
+      "basename": "Clinic-in-the-Loop",
+      "path": "projects/ifp/clinical-trial-abundance/Clinic-in-the-Loop.md"
+    },
+    {
+      "basename": "Surrogate Endpoints",
+      "path": "projects/ifp/clinical-trial-abundance/Surrogate Endpoints.md"
+    },
+    {
+      "basename": "The blood cancer that became solvable",
+      "path": "projects/innovation-econ-learning/sources/The blood cancer that became solvable.md"
+    },
+    {
+      "basename": "T cells",
+      "path": "projects/innovation-econ-learning/sources/T cells.md"
+    },
+    {
+      "basename": "CAR-T therapy",
+      "path": "projects/innovation-econ-learning/sources/attachments/CAR-T therapy.png"
+    },
+    {
+      "basename": "2026_06_06 scratch planning",
+      "path": "2026_06_06 scratch planning.md"
+    },
+    {
+      "basename": "README",
+      "path": "projects/biosecurity-learning/README.md"
+    },
+    {
+      "basename": "BMO scratch notes",
+      "path": "projects/ifp/bmo/BMO scratch notes.md"
+    },
+    {
+      "basename": "Default Note",
+      "path": "templates/Default Note.md"
+    },
+    {
+      "basename": "Running list of questions",
+      "path": "projects/biosecurity-learning/notes/Running list of questions.md"
+    },
+    {
       "basename": "reading",
       "path": "projects/biosecurity-learning/reading.base"
+    },
+    {
+      "basename": "Regulatory Reform for AI and Autonomy  The Foundation for American Innovation",
+      "path": "projects/ai/readings/Regulatory Reform for AI and Autonomy  The Foundation for American Innovation.md"
+    },
+    {
+      "basename": "2026-Q2",
+      "path": "journal/quarterly/2026-Q2.md"
+    },
+    {
+      "basename": "Quarterly Plan",
+      "path": "templates/Quarterly Plan.md"
+    },
+    {
+      "basename": "README",
+      "path": "journal/quarterly/README.md"
+    },
+    {
+      "basename": "Podcast",
+      "path": "templates/Podcast.md"
+    },
+    {
+      "basename": "Article",
+      "path": "templates/Article.md"
+    },
+    {
+      "basename": "Weekly Note",
+      "path": "templates/Weekly Note.md"
+    },
+    {
+      "basename": "Daily Note",
+      "path": "templates/Daily Note.md"
+    },
+    {
+      "basename": "Book",
+      "path": "templates/Book.md"
     },
     {
       "basename": "Should Meat Alternatives Beware Killer Acquisitions",
@@ -29,16 +141,8 @@
       "path": "projects/archived/Quotes.md"
     },
     {
-      "basename": "README",
-      "path": "projects/biosecurity-learning/README.md"
-    },
-    {
       "basename": "Research interests",
       "path": "projects/archived/Job Applications/Research interests.md"
-    },
-    {
-      "basename": "Podcast",
-      "path": "templates/Podcast.md"
     },
     {
       "basename": "Work Test 2 Causal Diagram",
@@ -66,35 +170,19 @@
     },
     {
       "basename": "2026-01-10",
-      "path": "journal/Daily/2026-01-10.md"
+      "path": "journal/daily/2026-01-10.md"
     },
     {
       "basename": "2026, Week 6",
-      "path": "journal/Weekly/2026, Week 6.md"
-    },
-    {
-      "basename": "Annual Goals",
-      "path": "templates/Annual Goals.md"
-    },
-    {
-      "basename": "Book",
-      "path": "templates/Book.md"
-    },
-    {
-      "basename": "Daily Note",
-      "path": "templates/Daily Note.md"
-    },
-    {
-      "basename": "Default Note",
-      "path": "templates/Default Note.md"
+      "path": "journal/weekly/2026, Week 6.md"
     },
     {
       "basename": "2024, Week 3",
-      "path": "journal/Weekly/2024, Week 3.md"
+      "path": "journal/weekly/2024, Week 3.md"
     },
     {
       "basename": "2024, Week 2",
-      "path": "journal/Weekly/2024, Week 2.md"
+      "path": "journal/weekly/2024, Week 2.md"
     },
     {
       "basename": "Jan Grue ― I Live a Life Like Yours",
@@ -107,82 +195,6 @@
     {
       "basename": "Iris Murdoch ― The Sovereignty of Good",
       "path": "projects/archived/Books/Library/Iris Murdoch ― The Sovereignty of Good.md"
-    },
-    {
-      "basename": "Daron Acemoglu Simon Johnson ― Power and Progress",
-      "path": "projects/archived/Books/Library/Daron Acemoglu Simon Johnson ― Power and Progress.md"
-    },
-    {
-      "basename": "Benedict Anderson ― Imagined Communities",
-      "path": "projects/archived/Books/Library/Benedict Anderson ― Imagined Communities.md"
-    },
-    {
-      "basename": "David Van Reybrouck ― Revolusi Indonesia and the Birth of the Modern World",
-      "path": "projects/archived/Books/Library/David Van Reybrouck ― Revolusi Indonesia and the Birth of the Modern World.md"
-    },
-    {
-      "basename": "Ian Mortimer ― Medieval Horizons",
-      "path": "projects/archived/Books/Library/Ian Mortimer ― Medieval Horizons.md"
-    },
-    {
-      "basename": "Hanno Sauer ― The Invention of Good and Evil",
-      "path": "projects/archived/Books/Library/Hanno Sauer ― The Invention of Good and Evil.md"
-    },
-    {
-      "basename": "Sophie Elmhirst ― Maurice and Maralyn",
-      "path": "projects/archived/Books/Library/Sophie Elmhirst ― Maurice and Maralyn.md"
-    },
-    {
-      "basename": "Yuri Slezkine ― The Jewish Century",
-      "path": "projects/archived/Books/Library/Yuri Slezkine ― The Jewish Century.md"
-    },
-    {
-      "basename": "Michael Taylor ― Impossible Monsters Dinosaurs Darwin and the Battle Between Science and Religion",
-      "path": "projects/archived/Books/Library/Michael Taylor ― Impossible Monsters Dinosaurs Darwin and the Battle Between Science and Religion.md"
-    },
-    {
-      "basename": "Christopher Clark ― Revolutionary Spring",
-      "path": "projects/archived/Books/Library/Christopher Clark ― Revolutionary Spring.md"
-    },
-    {
-      "basename": "Neil Shubin ― Your Inner Fish",
-      "path": "projects/archived/Books/Library/Neil Shubin ― Your Inner Fish.md"
-    },
-    {
-      "basename": "Ross Gay ― The Book of Delights",
-      "path": "projects/archived/Books/Library/Ross Gay ― The Book of Delights.md"
-    },
-    {
-      "basename": "Ross Gay ― The Book of (More) Delights",
-      "path": "projects/archived/Books/Library/Ross Gay ― The Book of (More) Delights.md"
-    },
-    {
-      "basename": "Ray Dalio ― Principles",
-      "path": "projects/archived/Books/Library/Ray Dalio ― Principles.md"
-    },
-    {
-      "basename": "Robert H Bates ― Markets and States in Tropical Africa",
-      "path": "projects/archived/Books/Library/Robert H Bates ― Markets and States in Tropical Africa.md"
-    },
-    {
-      "basename": "Christian Rudder ― Dataclysm",
-      "path": "projects/archived/Books/Library/Christian Rudder ― Dataclysm.md"
-    },
-    {
-      "basename": "Miguel Centeno Peter Callahan Paul Larcey ― How Worlds Collapse",
-      "path": "projects/archived/Books/Library/Miguel Centeno Peter Callahan Paul Larcey ― How Worlds Collapse.md"
-    },
-    {
-      "basename": "John Berger ― Ways of Seeing",
-      "path": "projects/archived/Books/Library/John Berger ― Ways of Seeing.md"
-    },
-    {
-      "basename": "Jane Jacobs ― The Death and Life of Great American Cities",
-      "path": "projects/archived/Books/Library/Jane Jacobs ― The Death and Life of Great American Cities.md"
-    },
-    {
-      "basename": "Matthew Walker ― Why We Sleep",
-      "path": "projects/archived/Books/Library/Matthew Walker ― Why We Sleep.md"
     }
   ],
   "omittedPaths": [],

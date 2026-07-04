@@ -1,6 +1,6 @@
 {
   "command_timeout": 5,
-  "templates_folder": "Templates",
+  "templates_folder": "templates",
   "templates_pairs": [
     [
       "",
@@ -11,20 +11,31 @@
   "auto_jump_to_cursor": true,
   "enable_system_commands": false,
   "shell_path": "",
-  "user_scripts_folder": "Scripts/Templater",
+  "user_scripts_folder": "scripts/Templater",
   "enable_folder_templates": true,
   "folder_templates": [
     {
       "folder": "Notes/Podcasts",
-      "template": "Templates/Podcast.md"
+      "template": "templates/Podcast.md"
     },
     {
-      "folder": "Journal/Weekly",
-      "template": "Templates/Weekly Note.md"
+      "folder": "journal/weekly",
+      "template": "templates/Weekly Note.md"
     },
     {
-      "folder": "Journal/Daily",
-      "template": "Templates/Daily Note.md"
+      "folder": "journal/daily",
+      "template": "templates/Daily Note.md"
+    },
+    {
+      "folder": "journal/quarterly",
+      "template": "Templates/Quarterly Plan.md"
+    }
+  ],
+  "enable_file_templates": false,
+  "file_templates": [
+    {
+      "regex": ".*",
+      "template": ""
     }
   ],
   "syntax_highlighting": true,
@@ -32,6 +43,12 @@
   "enabled_templates_hotkeys": [],
   "startup_templates": [
     ""
+  ],
+  "intellisense_render": 1,
+  "ignore_folders_on_creation": [
+    {
+      "folder": ""
+    }
   ],
   "enable_ribbon_icon": false
 }

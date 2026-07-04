@@ -1,6 +1,26 @@
 {
   "choices": [
     {
+      "id": "morning-startup-macro",
+      "name": "Morning Startup (Quarterly + Daily)",
+      "type": "Macro",
+      "command": false,
+      "runOnStartup": true,
+      "macro": {
+        "id": "morning-startup-id",
+        "name": "Morning Startup",
+        "commands": [
+          {
+            "name": "Open Quarterly + Daily",
+            "type": "UserScript",
+            "id": "startup-script-id",
+            "path": "scripts/startup-quarterly.js",
+            "settings": {}
+          }
+        ]
+      }
+    },
+    {
       "id": "8793a059-a06a-459c-b200-dd51932e6cc4",
       "name": "New Podcast",
       "type": "Macro",
@@ -68,7 +88,7 @@
       "name": "New Note",
       "type": "Template",
       "command": true,
-      "templatePath": "Templates/Default Note.md",
+      "templatePath": "templates/Default Note.md",
       "fileNameFormat": {
         "enabled": false,
         "format": ""

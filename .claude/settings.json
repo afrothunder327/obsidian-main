@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:forum.effectivealtruism.org)",
+      "PowerShell",
+      "Bash(Get-ChildItem -Path \"C:\\\\Users\\\\squaade\\\\Documents\\\\Github\\\\obsidian-main\" -Filter \"*.docx\")",
+      "Bash(Select-Object Name)",
+      "Bash(python extract_docx.py)",
+      "Bash(find .obsidian/plugins/periodic-notes -name \"*.json\" -exec cat {} \\\\;)",
+      "Bash(find .obsidian/plugins/templater-obsidian -name \"*.json\" -exec cat {} \\\\; | head -100)",
+      "Bash(git ls-remote *)",
+      "Bash(git fetch *)",
+      "Bash(echo \"EXIT: $?\")",
+      "Bash(git remote *)",
+      "Bash(git add *)"
+    ]
+  }
+}

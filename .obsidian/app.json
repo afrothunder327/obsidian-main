@@ -9,10 +9,11 @@
   },
   "alwaysUpdateLinks": true,
   "promptDelete": false,
-  "attachmentFolderPath": "Attachments",
+  "attachmentFolderPath": "./attachments",
   "showUnsupportedFiles": true,
   "showInlineTitle": true,
-  "propertiesInDocument": "source",
+  "propertiesInDocument": "visible",
   "readableLineLength": true,
-  "openBehavior": ""
+  "openBehavior": "",
+  "newFileLocation": "root"
 }
