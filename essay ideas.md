@@ -1,0 +1,7 @@
+- [ ] Global PPE need modeling
+- [ ] Modeling of populations of workers for which PPE could get peacetime use
+- [ ] Thing about learning curve jumpiness and tech modularity
+- [ ] Amount of speedup from disease surveillance in LMICs
+	- [ ] Seems super tractable. Maybe this is number one
+- [ ] Replacing insecurity
+- [ ] Biosecurity ideas in the ether are all things we decided to do when money was scarce

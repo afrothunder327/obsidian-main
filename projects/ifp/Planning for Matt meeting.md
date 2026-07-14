@@ -22,6 +22,7 @@ What is it that you should tell Matt tomorrow:
 		- Then I'd want to think about what might be feasible in terms of policy levers. 
 			- How would you define "use" in a regulatory finding?
 			- What are ways you might be able enact something like a property right?
+		- ^ It would be useful to learn who is on the ball for 
 - Some biosecurity project.
 	- Far-UVC incentivization.
 		- Still unsure about this. 

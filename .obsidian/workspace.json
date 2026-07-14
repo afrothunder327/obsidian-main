@@ -4,25 +4,122 @@
     "type": "split",
     "children": [
       {
-        "id": "4d5822d33115b2eb",
+        "id": "65e166e9ce7361da",
         "type": "tabs",
         "children": [
           {
-            "id": "f0d14786340a65fa",
+            "id": "30f1284a8157d31d",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "journal/quarterly/2026-Q3.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "2026-Q3"
+            }
+          },
+          {
+            "id": "68e9893b394cf825",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projects/biosecurity-learning/sources/High-risk human-caused pathogen exposure events.md",
+                "file": "templates/Quarterly Plan.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "High-risk human-caused pathogen exposure events"
+              "title": "Quarterly Plan"
+            }
+          },
+          {
+            "id": "3984a9e87a88d572",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "projects/archived/Books/📚 Bookshelf.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "📚 Bookshelf"
+            }
+          },
+          {
+            "id": "64e1cb699a576cf6",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "projects/random/Reading list July 2026.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Reading list July 2026"
+            }
+          },
+          {
+            "id": "316531161be70778",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "running questions.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "running questions"
+            }
+          },
+          {
+            "id": "7e97a0b28eb329c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "essay ideas.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "essay ideas"
+            }
+          },
+          {
+            "id": "24ea43fd88e06f19",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "projects/ifp/Planning for Matt meeting.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Planning for Matt meeting"
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -133,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "projects/biosecurity-learning/sources/High-risk human-caused pathogen exposure events.md",
+                "file": "projects/random/Reading list July 2026.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +240,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for High-risk human-caused pathogen exposure events"
+              "title": "Backlinks for Reading list July 2026"
             }
           },
           {
@@ -171,7 +268,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 641.5
+    "width": 211.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,48 +286,48 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "bf8bcda9b6417bb4",
+  "active": "24ea43fd88e06f19",
   "lastOpenFiles": [
-    "Untitled.md",
+    "essay ideas.md",
+    "running questions.md",
+    "projects/random/Reading list July 2026.md",
+    "words to live by.md",
+    "projects/ifp/Planning for Matt meeting.md",
+    "projects/archived/Books/📚 Bookshelf.md",
+    "journal/quarterly/2026-Q3.md",
+    "templates/Quarterly Plan.md",
+    "projects/archived/Books/2024 Reading List.md",
+    "projects/ifp/bmo/BMO scratch notes.md",
+    "projects/innovation-econ-learning/sources/T cells.md",
+    "projects/innovation-econ-learning/sources/The blood cancer that became solvable.md",
+    "projects/biosecurity-learning/notes/Running list of questions.md",
+    "projects/random/Augmenting Long-term Memory.md",
+    "projects/random/The Market for Antibiotics - Anne Karing.md",
+    "projects/biosecurity-learning/README.md",
+    "projects/biosecurity-learning/reading.base",
+    "2026_06_06 scratch planning.md",
+    "journal/quarterly/2026-Q2.md",
+    "templates/Book.md",
+    "journal/daily/2026-07-04.md",
     "projects/biosecurity-learning/sources/High-risk human-caused pathogen exposure events.md",
     "projects/biosecurity-learning/sources/Germ Warfare - A Very Graphic History.md",
     "projects/biosecurity-learning/sources/Graphic Novel.md",
     "projects/biosecurity-learning/sources/The makings of a good bioweapon.md",
     "projects/biosecurity-learning/sources/10 big projects for reducing bio x-risk.md",
     "projects/biosecurity-learning/sources/Coding Agents Are Changing the Biosecurity Risk Landscape.md",
-    "Clippings/The makings of a good bioweapon.md",
-    "Clippings/The makings of a good bioweapon 1.md",
-    "projects/ifp/clinical-trial-abundance/Treating pancreatic tumours may have revealed cancer’s master switch 1.md",
-    "projects/ifp/clinical-trial-abundance/Treating pancreatic tumours may have revealed cancer’s master switch.md",
-    "projects/ifp/Planning for Matt meeting.md",
     "projects/ifp/clinical-trial-abundance",
-    "projects/random/The Market for Antibiotics - Anne Karing.md",
     "projects/random",
-    "projects/biosecurity-learning/sources/Beyond sequence similarity toward function-based screening of nucleic acid synthesis.md",
     "Clippings",
-    "Untitled 1.md",
     "projects/biosecurity-learning/sources/attachments/GovAI Evo-2 fine tuning case study.png",
     "projects/biosecurity-learning/sources/attachments",
-    "projects/ifp/clinical-trial-abundance/Clinic-in-the-Loop.md",
-    "projects/ifp/clinical-trial-abundance/Surrogate Endpoints.md",
-    "projects/innovation-econ-learning/sources/The blood cancer that became solvable.md",
     "projects/innovation-econ-learning/sources/attachments/China vs US cell therapies over time.png",
     "projects/innovation-econ-learning/sources/attachments/Myeloma immunotherapy survival rates.png",
-    "projects/innovation-econ-learning/sources/T cells.md",
     "projects/innovation-econ-learning/sources/attachments/CAR-T therapy.png",
     "projects/innovation-econ-learning/sources/attachments",
     "Attachments/Pasted image 20260609202428.png",
     "Attachments",
-    "2026_06_06 scratch planning.md",
-    "projects/biosecurity-learning/README.md",
-    "projects/ifp/bmo/BMO scratch notes.md",
-    "templates/Default Note.md",
-    "Ruxandra Teslo]] [[Amol Punjabi.md",
     "projects/innovation-econ-learning/sources",
-    "projects/biosecurity-learning/notes/Running list of questions.md",
-    "templates/surrogate endpoints.md",
     "projects/ifp/bmo",
-    "projects/biosecurity-learning/reading.base",
     "projects/ai/readings",
     "projects/archived/msa/At-risk financing theory of change.canvas",
     "Attachments/Pasted image 20240616111054.png",

@@ -4,8 +4,8 @@
   "title": "Create Obsidian quarterly template with auto-open",
   "titleGenerationStatus": "success",
   "createdAt": 1780792994675,
-  "updatedAt": 1780795264337,
-  "lastResponseAt": 1780795264337,
+  "updatedAt": 1783175315676,
+  "lastResponseAt": 1783175315676,
   "sessionId": "7bfe19ab-8443-4d95-a773-260390a423dc",
   "providerState": {
     "providerSessionId": "7bfe19ab-8443-4d95-a773-260390a423dc",
@@ -204,12 +204,12 @@
   },
   "usage": {
     "model": "sonnet",
-    "inputTokens": 1,
-    "cacheCreationInputTokens": 144,
-    "cacheReadInputTokens": 77634,
-    "contextWindow": 200000,
-    "contextTokens": 77779,
-    "percentage": 39,
+    "inputTokens": 2,
+    "cacheCreationInputTokens": 398,
+    "cacheReadInputTokens": 117932,
+    "contextWindow": 1000000,
+    "contextTokens": 118332,
+    "percentage": 12,
     "contextWindowIsAuthoritative": true
   }
 }

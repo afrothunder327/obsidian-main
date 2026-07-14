@@ -5,12 +5,19 @@ tags: [quarterly-plan, planning]
 
 # Quarterly Plan - <% tp.file.title %>
 
-**Completion time:** ~3 hours
-**Review frequency:** Bi-weekly check-ins + end of quarter
+## SUMMARY
+*Fill this in at the end.*
+
+### Rocks
+1. 
+### Pebbles
+1. 
+### Anti-rocks
+1. 
 
 ## STEP 1: REFLECTION
 
-**Guiding Principle:** *"What gets measured gets managed."*
+*"What gets measured gets managed."*
 
 ### Reflection Questions
 
@@ -52,8 +59,6 @@ Rate each dimension on a scale of 1-5 (1 = struggling, 5 = thriving):
 
 ## STEP 2: VISION
 
-**Guiding Principle:** *"Reflect on what you actually want and why it is important."*
-
 ### Vision Questions
 
 **1. If you have an existing vision/values statement, review it for 2 minutes. If not, jot 1-2 keywords about what's most important to you right now based on your reflection, or skip this and let Step 1 guide you.**
@@ -86,25 +91,16 @@ My core values/mission (keywords if new, or quick review):
 4. 
 5. 
 
-### Categorization
-| Theme | Type | Notes |
-|-------|------|-------|
-| | Project / Learning Goal / Habit Change | |
-| | Project / Learning Goal / Habit Change | |
-| | Project / Learning Goal / Habit Change | |
-
 ---
 
 ## STEP 4: ROCKS & PEBBLES
 
-**Guiding Principle:** *"You can do anything you want to do, but not everything you want to do."*
-
-> **Constraint principle:** Three rocks. Maybe two pebbles. That's it. The anti-rocks remind you what NOT to do.
+> Three rocks. Maybe two pebbles. That's it.
 
 ### The Three Rocks (Primary Goals)
 
 #### Rock #1: 
-**Name:** ___________________
+**Name:** 
 
 **1. What does this rock consist of? Is it primarily a project, learning, or habit change?**
 
@@ -343,51 +339,25 @@ Rock #3:
 
 ---
 
-## 7-POMODORO FAST-TRACK GUIDE
-
-**Aim for completion in 7 × 25-minute Pomodoros.** Be concise, trust your gut, and aim for good enough rather than perfect. Skip optional sections if needed.
-
-| Pomodoro | Content |
-|----------|---------|
-| **P1 & P2** | Step 1 - Reflection (including Quick Check ratings) |
-| **P3** | Step 2 (Vision) + Step 3 (Combine & Refine - Initial List) |
-| **P4** | Step 3 (Distill List) + Step 4 (Most Important Rock, including If-Then plans) |
-| **P5** | Step 4 (Detail Rocks 2 & 3, including If-Then plans) |
-| **P6** | Step 4 (Pebbles + Anti-Rocks) |
-| **P7** | Step 5 (Sanity Checking, Systems Review & Next Review Plan) |
-
----
-
 ## APPENDIX A: GET INSPIRED
 
 **Recommended Reading:**
 
-- The 5-Step Process to Get What You Want Out of Life
-- Humans are not automatically strategic
-- How to be successful
-- How to work hard
-- There is no speed limit
-- If you want to follow your dreams, you have to say no to all the alternatives
-- You and your research
-- Notes and Reflections on "Deep Work" by Cal Newport
-- The Fifteen Commitments of Conscious Leadership
+-  [The 5-Step Process to Get What You Want Out of Life](https://archive.is/7PTOR#selection-375.0-375.51)
+- [Humans are not automatically strategic](https://www.lesswrong.com/posts/PBRWb2Em5SNeWYwwB/humans-are-not-automatically-strategic)
+- [How to be successful](https://blog.samaltman.com/how-to-be-successful)
+- [How to work hard](http://paulgraham.com/hwh.html)
+- [There is no speed limit](https://sivers.org/kimo)
+- [If you want to follow your dreams, you have to say no to all the alternatives](https://oliveremberton.com/2014/if-you-want-to-follow-your-dreams-you-have-to-say-no-to-all-the-alternatives/)
+- [Staring into the abyss](https://www.benkuhn.net/abyss/)
+- [You and your research](https://www.cs.utexas.edu/users/dahlin/bookshelf/hamming.html)
+- [The work-rest fractal](https://wavelength.asana.com/work-life-balance/)
+- [Notes and Reflections on “Deep Work” by Cal Newport](https://www.pasteurscube.com/notes-and-reflections-on-deep-work-by-cal-newport/)
+- [Notes on "A World Without Email", plus my practical implementation](https://www.pasteurscube.com/a-world-without-email/)
+- [High density fun](https://collegeinfogeek.com/high-density-fun/)
+- [The Fifteen Commitments of Conscious Leadership](https://conscious.is/15-commitments)    
+- [List of my Favorite Named Adages, Aphorisms, Dictums, Laws, Maxims, and Rules to Live By](https://www.pasteurscube.com/list-of-my-favorite-named-adages-aphorisms-dictums-laws-maxims-and-rules-to-live-by/)
 
 **Important Caveat:** Remember not to get too distracted here! Just read enough to get inspired and then stop. The point is to do a review and plan!
-
----
-
-## APPENDIX B: CREDITS & INSPIRATION
-
-This template is based on work by:
-- Gustin's annual review
-- The Quarterly Productivity Planner
-- Ben Todd's Personal annual review process (2020)
-- UltraWorking's monthly template
-- The Beyond Goals workshop
-- The Forcing Function annual review
-- Ben Kuhn's weekly review habit
-- Alex Beal's "2022 OKRs"
-- Eric Barker's "What's the best way to set a goal?"
-- Konrad Seifert's "Life Review, Planning & Organization"
 
 Created by Peter Wildeford and Caroline Jeanmaire (V4.1, December 2025)
